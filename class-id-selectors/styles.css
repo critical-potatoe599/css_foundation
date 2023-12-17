@@ -1,0 +1,23 @@
+.numberOne {
+background-color: lightcoral;
+font-family: Verdana, dejavu sans, sans-serif;
+
+}
+
+#evenNumber {
+color: blue;
+font-size: 36px;
+
+}
+
+.numberThree {
+font-size: 24px;
+}
+
+
+#evenNumber_4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    
+    }
